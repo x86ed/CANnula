@@ -1,2 +1,2 @@
 # CANnula
-CAN bsased 3D printer firware
+CAN bsased 3D printer firmware
